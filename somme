@@ -1,0 +1,9 @@
+print("Hello Everyone !")
+nombre1 = input("What is the value of the first number?")
+nombre2 = input("What is the value of the second number ?")
+
+nombre1=int(nombre1)
+nombre2=int(nombre2)
+
+print("The sum of ",nombre1, "et", nombre2, "is :")
+print(nombre1+nombre2)
